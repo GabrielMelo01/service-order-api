@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JpaBuddyIdeaProjectConfig">
+    <option name="defaultUnitInitialized" value="true" />
+    <option name="reverseEngineeringLastDbConnectionId" value="526ad043-1b20-48ff-a07a-9fcb4b986c6b" />
+    <option name="reLastEntityCreationPackage" value="src/main/java/com/gm_digital/serviceorderapi/model/entity" />
+    <reUseDbSnapshotConnections>
+      <dbConnection id="526ad043-1b20-48ff-a07a-9fcb4b986c6b" />
+    </reUseDbSnapshotConnections>
+    <option name="reIgnoreSlowDbConnections">
+      <ignoreDs id="526ad043-1b20-48ff-a07a-9fcb4b986c6b" />
+    </option>
+  </component>
+</project>
